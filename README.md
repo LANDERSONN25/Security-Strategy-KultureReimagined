@@ -1,6 +1,6 @@
 Project Overview:
 
-This project focuses on the development of an Incident Response Plan, Acceptable Use Policy for Personal Devices, and a Risk Assessment Report for Kulture Reimagined Consulting, a sole proprietorship that provides career and leadership development consulting services. The objective of this project is to ensure that the business is equipped with robust cybersecurity measures and a clear framework for responding to potential security incidents, protecting sensitive client data, and mitigating risks associated with internal and external threats.
+This project focuses on the development of an Incident Response Plan, Acceptable Use Policy for Personal Devices, Security Awareness Training on Phishing, and a Risk Assessment Report for Kulture Reimagined Consulting, a sole proprietorship that provides career and leadership development consulting services. The objective of this project is to ensure that the business is equipped with robust cybersecurity measures and a clear framework for responding to potential security incidents, protecting sensitive client data, and mitigating risks associated with internal and external threats.
 
 Project Rationale:
 As Kulture Reimagined grows, so does its exposure to cybersecurity risks. The business handles sensitive client data, including personal information, payment details, and proprietary intellectual property. This project was created to address the increasing need for comprehensive cybersecurity protocols, particularly in the face of emerging risks such as data breaches, phishing attacks, ransomware, and unauthorized access through personal devices.
@@ -23,7 +23,7 @@ Suggested countermeasures for each identified risk, including network segmentati
 
 Goals and Outcomes:
 
-Security Readiness: By implementing an incident response plan and acceptable use policies, Kulture Reimagined can proactively address potential threats, ensuring security preparedness at all levels of the organization.
+Security Readiness: By implementing an incident response plan, a security awareness training, and acceptable use policies, Kulture Reimagined can proactively address potential threats, ensuring security preparedness at all levels of the organization.
 Client Trust: Clients can have greater confidence knowing that Kulture Reimagined is committed to protecting their sensitive data and follows best practices for cybersecurity.
 Ongoing Improvement: The risk assessment and policies will be reviewed and updated periodically to address new and evolving security threats.
 This project serves as a key step in building a resilient cybersecurity posture for Kulture Reimagined, safeguarding both its operations and client relationships.
